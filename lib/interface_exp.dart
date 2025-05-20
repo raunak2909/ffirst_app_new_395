@@ -1,4 +1,6 @@
 abstract class Car{
+
+
   accelerate(String speed){
     print("Accelerating to $speed KM/hr..");
   }

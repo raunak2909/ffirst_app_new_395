@@ -1,5 +1,7 @@
 void main(){
 
+  int a = 7;
+
   //List<int> mNo = [5,4,3,6,43,77,32];
 
   /*List<int> mFilteredList = [];
